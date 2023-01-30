@@ -1,6 +1,6 @@
 const player = {
   name: 'Vasjan',
-  chips: 69,
+  chips: 415,
 }
 
 let cards = []
